@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto feito juntamente com o desafio do DIO do Bootcamp Microsoft Copilot AI.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot, Chat Gpt e Github
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fork criada a partir do projeto original desenvolvido pela DIO.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apenas foi feita alterações sobre o Readme com algumas informações referente ao uso de algumas IAs.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
